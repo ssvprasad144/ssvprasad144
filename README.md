@@ -1,126 +1,95 @@
-# Hi, I'm SSV 👋
+# SSV — Full-Stack Developer & AI Engineer
 
-### Full-Stack Developer • AI Integration • Web Applications
+**Building web applications, AI-powered products, backend systems, and interactive digital experiences.**
 
-I build practical web applications and AI-powered products with a focus on clean user experiences, reliable backend systems, and production-ready deployment.
+I help turn ideas, workflows, and product requirements into **clean, responsive, production-ready software**.
 
-I'm available for freelance projects involving **web development, AI integrations, backend systems, automation, and interactive frontend experiences**.
-
----
-
-## 🚀 What I Build
-
-- 🌐 Full-stack web applications
-- 🤖 AI-powered applications and API integrations
-- ⚙️ Backend systems and REST APIs
-- 🎨 Modern responsive frontend experiences
-- ✨ Interactive / 3D web experiences
-- ☁️ Deployment and production configuration
-- 🔄 Business workflow and automation solutions
+**Open to freelance work → Web Development · AI Integration · Backend · Automation · Interactive UI**
 
 ---
 
-## 🛠️ Tech Stack
+## What I Do
 
-### Frontend
-HTML • CSS • JavaScript • React • Vite • Three.js • React Three Fiber
-
-### Backend
-Python • Django • REST APIs • Gunicorn
-
-### Database
-PostgreSQL • SQLite
-
-### AI
-OpenAI API • AI-powered application development • Speech / interview workflows
-
-### Deployment & Tools
-Git • GitHub • Render • GitHub Pages • Cloudinary • Linux
+| Area | Capabilities |
+|---|---|
+| 🌐 **Web Development** | Responsive websites, full-stack applications, dashboards |
+| 🤖 **AI Integration** | OpenAI APIs, AI workflows, intelligent application features |
+| ⚙️ **Backend Engineering** | Django, REST APIs, authentication, sessions, databases |
+| 🎨 **Frontend** | React, Vite, modern responsive UI, animation |
+| ✨ **3D Web** | Three.js, React Three Fiber, interactive experiences |
+| 🔄 **Automation** | Workflow automation and software integrations |
+| ☁️ **Deployment** | Production configuration, GitHub Pages, Render, Linux |
 
 ---
 
-## ⭐ Featured Projects
+## Technical Stack
 
-### 🎯 CareerInnTech
-Full-stack career platform built with Django, PostgreSQL and OpenAI-powered interview features.
+**Languages**  
+Python · JavaScript · C++ · HTML · CSS · SQL
 
-**Highlights**
-- Django full-stack architecture
-- PostgreSQL data layer
-- Authentication and session security
-- AI mock interview workflows
-- CSRF and interview-session ownership protections
-- Production configuration with Gunicorn and WhiteNoise
+**Frontend**  
+React · Vite · Three.js · React Three Fiber
 
-**Repository:** [CareerInnTech](https://github.com/ssvprasad144/CareerInnTech)
+**Backend**  
+Django · REST APIs · Gunicorn
 
-### 🤖 AI Interview
-AI-powered mock interview application built with Django and OpenAI integration.
+**Databases**  
+PostgreSQL · SQLite
 
-**Highlights**
-- AI interview workflows
-- Session-based interview state
-- OpenAI integration
-- Production deployment configuration
-- Gunicorn + WhiteNoise
-- Security-conscious request handling
+**AI**  
+OpenAI API · AI application development · Speech / interview workflows
 
-**Repository:** [AI Interview](https://github.com/ssvprasad144/AI_interview)
-
-### 🌌 3D Motion Portfolio
-Interactive portfolio experience using React, Three.js and React Three Fiber.
-
-**Highlights**
-- 3D web experience
-- Responsive motion-focused UI
-- Vite + React architecture
-- Three.js / React Three Fiber
-- GitHub Pages deployment workflow
-
-**Repository:** [3D Motion Portfolio](https://github.com/ssvprasad144/3d-motion-portfolio)
+**Tools & Infrastructure**  
+Git · GitHub · Render · GitHub Pages · Cloudinary · Linux
 
 ---
 
-## 💼 Freelance Services
+## Engineering Focus
 
-**Web Development** — Custom responsive websites and full-stack web applications.
-
-**AI Integration** — Integrate AI APIs and intelligent workflows into existing or new products.
-
-**Backend Development** — Django applications, databases, authentication, APIs and deployment configuration.
-
-**Interactive Websites** — Modern React interfaces, animations and 3D web experiences.
-
-**Automation** — Build software workflows that reduce repetitive manual work.
-
----
-
-## 📈 Engineering Focus
-
-I continuously work on:
 - Data Structures & Algorithms
 - Backend architecture
 - Database design
-- AI application development
 - API design
+- Authentication & application security
+- AI application development
 - Deployment & DevOps fundamentals
 - System design
 
 ---
 
-## 🤝 Open to Freelance Work
+## Freelance
 
-If you have an idea, existing application, business workflow, or website that needs to be built or improved, feel free to reach out.
+I can help with:
 
-**Available for:** Web Development • AI Integration • Backend Development • Automation
+**Build** — websites, dashboards, full-stack applications and custom web products.
+
+**Integrate** — AI APIs and intelligent workflows into new or existing applications.
+
+**Improve** — backend architecture, APIs, authentication, performance and UI.
+
+**Automate** — repetitive business workflows with software integrations.
+
+**Create** — modern interactive and 3D web experiences.
 
 ---
 
-## 📫 Connect
+## GitHub
 
-- GitHub: [@ssvprasad144](https://github.com/ssvprasad144)
-- Portfolio: [3D Motion Portfolio](https://github.com/ssvprasad144/3d-motion-portfolio)
+I use GitHub to build, document and ship software through iterative development, production fixes, and deployment workflows.
+
+**Currently focused on:** Full-stack development · AI applications · backend engineering · interactive web experiences.
 
 ---
 
-> Building useful software, one project at a time.
+## Let's Work Together
+
+Have a website, application, AI feature, backend problem, or workflow you want to build?
+
+**Open to freelance projects and collaborations.**
+
+📧 **Email:** ssvprasad144@gmail.com  
+🌐 **Portfolio:** [ssvprasad144.github.io](https://ssvprasad144.github.io/3d-motion-portfolio/)
+
+---
+
+### Building useful software, one system at a time.
