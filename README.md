@@ -1,8 +1,8 @@
 # SSVPrasad — Full-Stack Developer & AI Engineer
 
-**Building web applications, AI-powered products, backend systems, and interactive digital experiences.**
+**Building web applications, AI-powered products, backend systems, business automations, and interactive digital experiences.**
 
-I help turn ideas, workflows, and product requirements into **clean, responsive, production-ready software**.
+I turn ideas, workflows, and product requirements into **clean, responsive, production-ready software**.
 
 **Open to freelance work → Web Development · AI Integration · Backend · Automation · Interactive UI**
 
@@ -17,8 +17,57 @@ I help turn ideas, workflows, and product requirements into **clean, responsive,
 | ⚙️ **Backend Engineering** | Django, REST APIs, authentication, sessions, databases |
 | 🎨 **Frontend** | React, Vite, modern responsive UI, animation |
 | ✨ **3D Web** | Three.js, React Three Fiber, interactive experiences |
-| 🔄 **Automation** | Workflow automation and software integrations |
+| 🔄 **Business Automation** | AI workflow builders, execution pipelines, automation demos, software integrations |
 | ☁️ **Deployment** | Production configuration, GitHub Pages, Render, Linux |
+
+---
+
+## Featured Projects
+
+### 🤖 AI Business Automation Dashboard
+A full-stack **AI automation platform and freelance foundation** for designing, running, and monitoring business workflows.
+
+**Highlights:**
+- AI workflow generation and structured workflow definitions
+- Workflow triggers, ordered action steps, and execution engine
+- Execution history, activity logs, success metrics, and monitoring
+- Lead qualification, customer support, data extraction, and message-generation demos
+- Safe sandboxed demonstrations with external side effects disabled by default
+- Django REST API + PostgreSQL + React/Vite architecture
+- Render deployment configuration
+
+**Tech:** Django · Django REST Framework · PostgreSQL · React · Vite · OpenAI API · Render
+
+🔗 **Repository:** https://github.com/ssvprasad144/AI-Business-Automation-Dashboard
+
+---
+
+### 💼 3D Motion Portfolio
+A modern interactive developer portfolio built to showcase projects, services, and freelance capabilities.
+
+**Tech:** React · Vite · Three.js · React Three Fiber · CSS
+
+🌐 **Live Portfolio:** https://ssvprasad144.github.io/3d-motion-portfolio/
+
+🔗 **Repository:** https://github.com/ssvprasad144/3d-motion-portfolio
+
+---
+
+### 🎙️ AI Mock Interview
+A voice-first AI interview preparation system with interview sessions, AI responses, feedback, and speech-oriented interaction.
+
+**Tech:** Django · REST APIs · OpenAI · JavaScript · PostgreSQL · Speech/TTS workflows
+
+🔗 **Repository:** https://github.com/ssvprasad144/AI_interview
+
+---
+
+### 🎓 CareerInnTech
+A full-stack career and placement platform with AI-powered interview preparation and career-focused features.
+
+**Tech:** Django · PostgreSQL · REST APIs · JavaScript · OpenAI
+
+🔗 **Repository:** https://github.com/ssvprasad144/CareerInnTech
 
 ---
 
@@ -31,13 +80,16 @@ Python · JavaScript · C++ · HTML · CSS · SQL
 React · Vite · Three.js · React Three Fiber
 
 **Backend**  
-Django · REST APIs · Gunicorn
+Django · Django REST Framework · REST APIs · Gunicorn
 
 **Databases**  
 PostgreSQL · SQLite
 
 **AI**  
-OpenAI API · AI application development · Speech / interview workflows
+OpenAI API · AI application development · AI workflows · Speech / interview workflows
+
+**Automation**  
+Workflow engines · API integrations · Webhooks · Business process automation
 
 **Tools & Infrastructure**  
 Git · GitHub · Render · GitHub Pages · Cloudinary · Linux
@@ -52,8 +104,10 @@ Git · GitHub · Render · GitHub Pages · Cloudinary · Linux
 - API design
 - Authentication & application security
 - AI application development
+- Business workflow automation
 - Deployment & DevOps fundamentals
 - System design
+- Interactive web experiences
 
 ---
 
@@ -63,11 +117,11 @@ I can help with:
 
 **Build** — websites, dashboards, full-stack applications and custom web products.
 
-**Integrate** — AI APIs and intelligent workflows into new or existing applications.
+**Integrate** — AI APIs and intelligent features into new or existing applications.
+
+**Automate** — repetitive business workflows using APIs, AI, webhooks, and software integrations.
 
 **Improve** — backend architecture, APIs, authentication, performance and UI.
-
-**Automate** — repetitive business workflows with software integrations.
 
 **Create** — modern interactive and 3D web experiences.
 
@@ -77,7 +131,7 @@ I can help with:
 
 I use GitHub to build, document and ship software through iterative development, production fixes, and deployment workflows.
 
-**Currently focused on:** Full-stack development · AI applications · backend engineering · interactive web experiences.
+**Currently focused on:** Full-stack development · AI applications · business automation · backend engineering · interactive web experiences.
 
 ---
 
@@ -88,7 +142,7 @@ Have a website, application, AI feature, backend problem, or workflow you want t
 **Open to freelance projects and collaborations.**
 
 📧 **Email:** ssvprasad144@gmail.com  
-🌐 **Portfolio:** [ssvprasad144.github.io](https://ssvprasad144.github.io/3d-motion-portfolio/)
+🌐 **Portfolio:** https://ssvprasad144.github.io/3d-motion-portfolio/
 
 ---
 
